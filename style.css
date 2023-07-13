@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+    color: white;
+
+}
+h1,h2,footer,div1{
+    text-align: center;
+
+}
+div{
+    text-align: right;
+    float: right;
+}
+p{
+    font-size: 50px;
+}
+h2{
+    color: rgb(237, 237, 103);
+}
+p3{
+    font-size:20px ;
+}
+nav{
+    background-color: rgb(240, 240, 98);
+    font-size: 30px;
+    text-align: right;
+}
+#object1{
+    float:left
+}
+
+
